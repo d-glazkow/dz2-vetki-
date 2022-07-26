@@ -5,7 +5,9 @@
 ## Установка и авторизация
 
 после скачивания необходимо представиться, это делается так: 
+
 *git comfig --global user.name "Ivan Ivanov"
+
 *git config --global user.email ivan@ivan.ru
 
 ## основные команды GIT
